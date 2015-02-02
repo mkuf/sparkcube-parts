@@ -1504,11 +1504,35 @@
        fill="rgb(0, 0, 0)"
        id="path672" />
   </g>
-<g id="View"    transform="rotate(0,75,125) translate(75,125) scale(1,1)"   > <g   stroke="rgb(0, 0, 0)"    stroke-width="0.35"    stroke-linecap="butt"    stroke-linejoin="miter"    fill="none"   > <path id= "1" d=" M 274 3.03943 L 268 3.03943 " /> <path id= "2" d=" M 268 5.03943 L 10 5.03943 " /> <path id= "3" d=" M 10 2.53943 L 0 2.53943 " /> </g> <g   stroke="rgb(0, 0, 0)"    stroke-width="0.35"    stroke-linecap="butt"    stroke-linejoin="miter"    fill="none"   > <path id= "1" d=" M 274 -2.96057 L 274 3.03943 " /> <path id= "2" d=" M 274 -2.96057 L 268 -2.96057 " /> <path id= "3" d=" M 268 -4.96057 L 268 5.03943 " /> <path id= "4" d=" M 10 -4.96057 L 10 5.03943 " /> <path id= "5" d=" M 268 -4.96057 L 10 -4.96057 " /> <path id= "6" d=" M 0 -2.46057 L 0 2.53943 " /> <path id= "7" d=" M 10 -2.46057 L 0 -2.46057 " /> </g> </g> 
-
-
-<g id="ViewLine" transform="rotate(0.0,75.0,125.0) translate(75.0,125.0) scale(1.0,-1.0)"><path id="Line" d="M -10.0 0.0 L 283.0 0.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:0.09,0.05,0.02,0.05;fill:none;fill-rule: evenodd "/>
+<g id="View"
+   transform="rotate(0,75,125) translate(75,125) scale(1,1)"
+  >
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="0.35"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+  >
+<path id= "1" d=" M 274 3.03943 L 268 3.03943 " />
+<path id= "2" d=" M 268 5.03943 L 10 5.03943 " />
+<path id= "3" d=" M 10 2.53943 L 0 2.53943 " />
 </g>
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="0.35"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+  >
+<path id= "1" d=" M 274 -2.96057 L 274 3.03943 " />
+<path id= "2" d=" M 274 -2.96057 L 268 -2.96057 " />
+<path id= "3" d=" M 268 -4.96057 L 268 5.03943 " />
+<path id= "4" d=" M 10 -4.96057 L 10 5.03943 " />
+<path id= "5" d=" M 268 -4.96057 L 10 -4.96057 " />
+<path id= "6" d=" M 0 -2.46057 L 0 2.53943 " />
+<path id= "7" d=" M 10 -2.46057 L 0 -2.46057 " />
+</g>
+</g>
+
 
 
 <g id="ViewGruppe" transform="rotate(0.0,75.0,125.0) translate(75.0,125.0) scale(1.0,-1.0)"><path d="M -16.0029384613 2.5 L -16.3029384613 2.5 L -16.3029384613 -2.5 L -16.0029384613 -2.5" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-16.0029384613 2.5" freecad:basepoint2="-16.0029384613 -2.5" freecad:dimpoint="-16.3029384613 2.5"/>
@@ -1540,7 +1564,7 @@ PTRS 10x2 Rechts</text>
 <circle cx="0.0" cy="-20.0" r="0.133333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
 <circle cx="274.0" cy="-20.0" r="0.133333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
 <text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,137.0,-18.0) translate(137.0,-18.0) scale(1,-1) " freecad:skip="1">
-274.00</text>
+260</text>
 </g>
 
 
@@ -1579,7 +1603,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333"
          x="220.9935"
-         y="228.95425">Markus Küffner</tspan></text>
+         y="228.95425">AUTHOR NAME</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1591,7 +1615,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333-6"
          x="220.78677"
-         y="236.50475">11/01/2015</tspan></text>
+         y="236.50475">CREATION DATE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1603,7 +1627,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333-6-9"
          x="220.74191"
-         y="243.9375">-</tspan></text>
+         y="243.9375">SUPERVISOR NAME</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1615,7 +1639,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333-6-1"
          x="220.69022"
-         y="251.35406">-</tspan></text>
+         y="251.35406">CHECK DATE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1627,7 +1651,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333-6-6"
          x="220.65581"
-         y="274.57715">1:1</tspan></text>
+         y="274.57715">SCALE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1639,7 +1663,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333-6-6-3"
          x="240.50963"
-         y="274.57715">-</tspan></text>
+         y="274.57715">WEIGHT</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1651,7 +1675,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333-6-6-3-8"
          x="266.50964"
-         y="274.57715">1</tspan></text>
+         y="274.57715">NUMBER</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1663,7 +1687,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333-6-6-3-8-7"
          x="366.50964"
-         y="274.57715">1</tspan></text>
+         y="274.57715">SHEET</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1676,7 +1700,7 @@ PTRS 10x2 Rechts</text>
          id="tspan3333-5"
          x="270.19635"
          y="237.26292"
-         style="font-size:8px">Sparkcube Z-Spindel</tspan></text>
+         style="font-size:8px">TITLE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
@@ -1688,7 +1712,7 @@ PTRS 10x2 Rechts</text>
          sodipodi:role="line"
          id="tspan3333-5-6"
          x="270.19635"
-         y="243.26292">PTRS 10x2 Rechts</tspan></text>
+         y="243.26292">SUBTITLE</tspan></text>
   </g>
 </svg>
 
