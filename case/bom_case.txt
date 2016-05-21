@@ -1,0 +1,2 @@
+#norm	#maß	#anzahl		#verwendung
+DIN912	M4x6	2		psu_platemount(2x),
