@@ -4,3 +4,4 @@ DIN912	M3x6	8		udoo_panel
 DIN912	M3x8	4		windpipe/power-panel
 DIN912	M3x12			elec-case
 Mutter	M3			elec-case
+Scheib	M3			elec-case<
