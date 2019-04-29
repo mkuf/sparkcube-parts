@@ -1,0 +1,3 @@
+[submodule "FreeCAD_SheetMetal"]
+	path = FreeCAD_SheetMetal
+	url = https://github.com/shaise/FreeCAD_SheetMetal.git
