@@ -48,3 +48,5 @@ Requires an aditional Hole in the Z-Gantry to secure it in place. <br>
 ![z-endstop-adapter](img/z-endstop-adapter.png)
 
 
+Licensed under Creative Commons BY-NC-SA. <br>
+<img alt="CC BY-NC-SA" width=150 src=https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png >
