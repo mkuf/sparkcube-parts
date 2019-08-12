@@ -1,0 +1,32 @@
+170,0W Heatbed
+ 40,0W H1
+ 40,0W H2
+  1,2W F1
+  1,2W F2
+  1,2W HF1
+  1,2W H-F2
+  1,2W PSU-F
+ 35,0W Motors
+  5,0W Udoo
+  
+~296W
+
++ LEDs
++ Touchscreen
++ Webcam
+
+===================
+Touchscreen Setup: 
+
+apt-get install console-data
+apt-get install xorg matchbox chromium-browser xserver-xorg-input-evdev unclutter haveged xdotool
+
+===================
+
+Stepper: 
+
+X1/2: 0.72A
+Y1/2: 0.8A
+   Z: 0.6A
+E1/2: 1.24A
+
