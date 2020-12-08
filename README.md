@@ -42,11 +42,6 @@ A fixture to mount the PCB of a Logitech C270 Webcam to a Aluminium Extrusion wi
 Just insert the Posts sideways into the Profile, rotate them 90°, screw in the baseplate and you're done. <br>
 ![webcam-mount](img/webcam-mount.png)
 
-## z-endstop-adapter
-Use this if you prefer to use an M3 Screw for your Z-Endstop instead of an M5 one. <br>
-Requires an aditional Hole in the Z-Gantry to secure it in place. <br>
-![z-endstop-adapter](img/z-endstop-adapter.png)
-
 
 Licensed under Creative Commons BY-NC-SA. <br>
 <img alt="CC BY-NC-SA" width=150 src=https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png >
