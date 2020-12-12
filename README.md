@@ -5,10 +5,6 @@ All Parts can be printed without support. <br>
 In Places where support is needed, there are small membranes that need to be drilled out after printing. <br>
 See the "support" Folder in every FreeCAD File.
 
-## accessories_holder
-Neat little box to store a USB-Drive and -Cable <br>
-![accessories_holder](img/accessories_holder.png)
-
 ## case
 Main File for anything related to the outer shell of the Printer. <br> 
 These files are not compatible with the original Sparkcube, as my Printer is larger in X and Z. <br>
@@ -28,6 +24,14 @@ Be aware that this reduces your Printarea in X by quite a bit. I recommend build
 The design of these parts is inspired by the original Sparklab parts, but are not compatible with any of them (except the Z-Assembly of course). <br>
 ![dual-x-1](img/dual-x-1.png)
 ![dual-x-2](img/dual-x-2.png)
+
+## dual-x_z-assembly
+Contains the `dual-x_bed_carrier`, that adjusts the placement of a standard MK2/3 Buildplate in Y to be compatible with the dual-x Setup
+![dual-x_z-assembly](img/dual-x_z-assembly.png)
+
+## z-endstop-assembly
+Minimalist solution to fine tune Z0. <br>
+![z-endstop-assembly](img/z-endstop-assembly.png)
 
 ## mpx-clip
 A simple piece that clips around a MPX Connector to prevent it from accidential disconnecting. <br>
