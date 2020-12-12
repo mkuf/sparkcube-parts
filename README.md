@@ -26,7 +26,7 @@ The design of these parts is inspired by the original Sparklab parts, but are no
 ![dual-x-2](img/dual-x-2.png)
 
 ## dual-x_z-assembly
-Contains the `dual-x_bed_carrier`, that adjusts the placement of a standard MK2/3 Buildplate in Y to be compatible with the dual-x Setup
+Contains the `dual-x_bed_carrier`, that adjusts the placement of a standard MK2/3 Buildplate in Y to be compatible with the dual-x Setup <br>
 ![dual-x_z-assembly](img/dual-x_z-assembly.png)
 
 ## z-endstop-assembly
